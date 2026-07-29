@@ -86,3 +86,42 @@ AI-Resume-Analyzer
 │── README.md
 ```
 
+---
+
+# ⚙️ How To Run Project
+
+1. Download this project
+
+2. Open index.html file
+
+3. Run in browser
+
+
+---
+
+# 🚀 Future Improvements
+
+- AI API Integration
+- PDF Resume Scanner
+- ATS Score Checker
+- Job Description Matching
+- AI Resume Builder
+
+
+---
+
+# 👨‍💻 Author
+
+**Shafan Abitha**
+
+GitHub:
+
+https://github.com/Shafan-cyber
+
+
+---
+
+# ⭐ Support
+
+If you like this project, give a ⭐ on GitHub.
+
