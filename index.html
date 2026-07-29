@@ -1,1 +1,154 @@
+/* Google Font */
 
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+/* Body */
+
+body{
+    background:linear-gradient(135deg,#0f172a,#1e3a8a);
+    color:#fff;
+    min-height:100vh;
+}
+
+/* Hero */
+
+.hero{
+    text-align:center;
+    padding:50px 20px;
+}
+
+.hero h1{
+    font-size:45px;
+    margin-bottom:15px;
+    font-weight:700;
+}
+
+.hero p{
+    font-size:18px;
+    color:#dbeafe;
+    max-width:700px;
+    margin:auto;
+    line-height:1.7;
+}
+
+/* Container */
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:40px auto;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:30px;
+}
+
+/* Cards */
+
+.card{
+    background:rgba(255,255,255,.12);
+    backdrop-filter:blur(12px);
+    border-radius:20px;
+    padding:30px;
+    box-shadow:0 10px 30px rgba(0,0,0,.3);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card h2{
+    margin-bottom:25px;
+    font-size:28px;
+}
+
+/* File Upload */
+
+input[type=file]{
+    width:100%;
+    padding:15px;
+    border-radius:10px;
+    background:#fff;
+    color:#333;
+    margin-bottom:25px;
+    cursor:pointer;
+}
+
+/* Button */
+
+button{
+    width:100%;
+    padding:15px;
+    border:none;
+    border-radius:12px;
+    background:#2563eb;
+    color:white;
+    font-size:18px;
+    font-weight:600;
+    cursor:pointer;
+    transition:.3s;
+}
+
+button:hover{
+    background:#1d4ed8;
+    transform:scale(1.02);
+}
+
+/* Result */
+
+#result{
+    min-height:350px;
+    background:rgba(255,255,255,.08);
+    border-radius:15px;
+    padding:20px;
+    line-height:1.8;
+}
+
+#result h3{
+    color:#7dd3fc;
+    margin-bottom:15px;
+}
+
+#result ul{
+    margin-left:20px;
+}
+
+#result li{
+    margin-bottom:10px;
+}
+
+/* Footer */
+
+footer{
+    text-align:center;
+    padding:30px;
+    margin-top:40px;
+    color:#cbd5e1;
+}
+
+/* Responsive */
+
+@media(max-width:900px){
+
+.container{
+    grid-template-columns:1fr;
+}
+
+.hero h1{
+    font-size:35px;
+}
+
+.hero p{
+    font-size:16px;
+}
+
+.card{
+    padding:20px;
+}
+
+}
