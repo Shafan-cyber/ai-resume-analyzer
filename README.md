@@ -77,3 +77,12 @@ This project is created as a beginner-friendly AI project for developer portfoli
 
 # 📂 Project Structure
 
+```
+AI-Resume-Analyzer
+
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
