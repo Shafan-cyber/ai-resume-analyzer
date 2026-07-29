@@ -8,7 +8,7 @@ An AI-powered Resume Analyzer that helps users analyze their resumes, check skil
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+ https://shafan-cyber.github.io/ai-resume-analyzer/
 
 Example:
 
