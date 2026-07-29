@@ -1,21 +1,37 @@
-# AI Resume Analyzer
+# 🤖 AI Resume Analyzer
 
-AI-powered Resume Analyzer built using HTML, CSS and JavaScript.
+An AI-powered Resume Analyzer that helps users analyze their resumes, check ATS score, identify skills, and get improvement suggestions for better job opportunities.
 
-## Features
+🚀 Built using HTML, CSS, JavaScript and AI concepts.
 
-- Resume analysis
-- ATS score
-- Skill detection
-- Career suggestions
-- Job role matching
+---
 
-## Live Demo
+## 🌐 Live Demo
 
-https://yourusername.github.io/ai-resume-analyzer
+https://yourusername.github.io/ai-resume-analyzer/
 
-## Technologies
+---
 
-HTML
-CSS
-JavaScript
+## 📌 Features
+
+✅ Upload Resume  
+✅ AI Resume Analysis  
+✅ ATS Score Generation  
+✅ Skill Detection  
+✅ Missing Skills Suggestions  
+✅ Job Role Matching  
+✅ Resume Improvement Tips  
+✅ Responsive Modern UI  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## 📂 Project Structure
